@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Aanpassingen in alien-plot2. Hopelijk komt deze als side branch op Github.
+=======
+Alien plot deel 2.2?
+>>>>>>> alien-plot
